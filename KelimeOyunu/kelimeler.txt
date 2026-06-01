@@ -1,0 +1,9 @@
+Hypothesis,Hipotez
+Fascinating,Büyüleyici
+Gravity,Yerçekimi
+Paradigm,Model / Değerler Dizisi
+Bazinga,Kandırdım (Şaka)
+Vulnerability,Zafiyet
+Encryption,Şifreleme
+Penetration,Sızma
+Authentication,Kimlik Doğrulama

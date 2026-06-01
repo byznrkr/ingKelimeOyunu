@@ -1,0 +1,397 @@
+Hypothesis,Hipotez
+Fascinating,Büyüleyici
+Gravity,Yerçekimi
+Paradigm,Model / Değerler Dizisi
+Vulnerability,Zafiyet
+Encryption,Şifreleme
+Penetration,Sızma
+Authentication,Kimlik Doğrulama
+Absolutely, Kesinlikle
+Advantage, Avantaj
+Apologize, Özür dilemek
+Arrange, Düzenlemek / Ayarlamak
+Available, Müsait / Mevcut
+Brief, Kısa / Öz
+Celebrate, Kutlamak
+Challenge, Zorluk / Meydan okumak
+Compare, Karşılaştırmak
+Complain, Şikayet etmek
+Confident, Kendinden emin
+Curious, Meraklı
+Decision, Karar
+Development, Gelişim
+Disappoint, Hayal kırıklığına uğratmak
+Encourage, Cesaretlendirmek
+Environment, Çevre
+Familiar, Tanıdık
+Generate, Üretmek / Oluşturmak
+Govern, Yönetmek
+Improve, Geliştirmek
+Independent, Bağımsız
+Knowledge, Bilgi
+Lack, Eksiklik
+Measure, Ölçmek
+Observe, Gözlemlemek
+Opportunity, Fırsat
+Participate, Katılmak
+Predict, Tahmin etmek
+Recognize, Tanımak / Farkına varmak
+Recommend, Tavsiye etmek
+Require, Gerektirmek
+Satisfy, Tatmin etmek
+Succeed, Başarmak
+Traditional, Geleneksel
+Unnecessary, Gereksiz
+Various, Çeşitli
+Volunteer, Gönüllü
+Wealthy, Zengin
+Wonder, Merak etmek
+Ability, Yetenek
+Abroad, Yurtdışı
+Accept, Kabul etmek
+Access, Erişim
+Achieve, Elde etmek / Başarmak
+Actually, Aslında
+Admire, Hayran olmak
+Admit, İtiraf etmek / Kabul etmek
+Advanced, Gelişmiş / İleri düzey
+Affect, Etkilemek
+Agreement, Anlaşma
+Aim, Amaç / Hedeflemek
+Allow, İzin vermek
+Amount, Miktar
+Announce, Duyurmak
+Anxious, Endişeli
+Appreciate, Takdir etmek
+Approach, Yaklaşım
+Architecture, Mimari
+Article, Makale
+Attempt, Girişim / Çabalamak
+Attention, Dikkat
+Audience, İzleyici / Dinleyici
+Average, Ortalama
+Avoid, Kaçınmak
+Background, Arka plan / Geçmiş
+Benefit, Fayda / Yarar
+Blame, Suçlamak
+Borrow, Ödünç almak
+Boundary, Sınır
+Calculation, Hesaplama
+Campaign, Kampanya
+Candidate, Aday
+Capable, Yetenekli
+Careless, Dikkatsiz
+Century, Yüzyıl
+Certain, Kesin / Belirli
+Character, Karakter
+Collection, Koleksiyon
+Combine, Birleştirmek
+Commercial, Ticari
+Common, Yaygın / Ortak
+Communicate, İletişim kurmak
+Community, Topluluk
+Condition, Durum / Şart
+Confirm, Onaylamak
+Connect, Bağlanmak
+Consider, Dikkate almak
+Consumer, Tüketici
+Contain, İçermek
+Contribute, Katkıda bulunmak
+Convince, İkna etmek
+Create, Yaratmak / Oluşturmak
+Crucial, Çok önemli / Kritik
+Culture, Kültür
+Damage, Hasar / Zarar vermek
+Decade, On yıl
+Decrease, Azalmak
+Defend, Savunmak
+Delay, Gecikme / Ertelemek
+Delete, Silmek
+Demand, Talep etmek
+Describe, Tanımlamak
+Design, Tasarım / Tasarlamak
+Destroy, Yok etmek
+Detail, Detay
+Determine, Belirlemek
+Difference, Fark
+Difficult, Zor
+Direct, Doğrudan / Yönetmek
+Discover, Keşfetmek
+Discuss, Tartışmak
+Disease, Hastalık
+Distance, Mesafe
+Document, Belge
+Doubt, Şüphe
+Earn, Kazanmak
+Economy, Ekonomi
+Educate, Eğitmek
+Effect, Etki
+Effort, Çaba
+Election, Seçim
+Emotion, Duygu
+Emphasize, Vurgulamak
+Employ, İşe almak
+Empty, Boş
+Energy, Enerji
+Engine, Motor
+Enjoyable, Eğlenceli
+Enter, Girmek
+Entire, Bütün / Tüm
+Equal, Eşit
+Equipment, Ekipman
+Especially, Özellikle
+Essential, Temel / Gerekli
+Establish, Kurmak
+Event, Etkinlik / Olay
+Evidence, Kanıt
+Exact, Kesin / Tam
+Excellent, Mükemmel
+Exchange, Takas yapmak
+Exist, Var olmak
+Expect, Beklemek / Ummak
+Experience, Tecrübe
+Explain, Açıklamak
+Express, İfade etmek
+Extreme, Aşırı
+Factory, Fabrika
+Fail, Başarısız olmak
+Fair, Adil
+Famous, Ünlü
+Fault, Hata / Kusur
+Favour, İyilik
+Fear, Korku
+Feature, Özellik
+Feed, Beslemek
+Female, Kadın / Dişi
+Fiction, Kurgu
+Field, Alan / Tarla
+Fight, Kavga etmek / Savaşmak
+Figure, Figür / Şekil / Rakam
+Finally, Sonunda
+Finance, Finans
+Financial, Finansal
+Firm, Firma / Sıkı
+Fit, Uymak / Formda
+Fix, Düzeltmek / Tamir etmek
+Flat, Düz / Daire
+Flight, Uçuş
+Float, Yüzmek (suyun yüzeyinde)
+Flow, Akış / Akmak
+Focus, Odaklanmak
+Fold, Katlamak
+Force, Güç / Zorlamak
+Foreign, Yabancı
+Forgive, Affetmek
+Formal, Resmi
+Fortunate, Şanslı
+Forward, İleri
+Frame, Çerçeve
+Freedom, Özgürlük
+Freeze, Donmak
+Frequent, Sık
+Fresh, Taze
+Friendship, Arkadaşlık
+Frighten, Korkutmak
+Fuel, Yakıt
+Function, İşlev
+Fund, Fon / Kaynak
+Gain, Kazanmak (elde etmek)
+Gap, Boşluk / Fark
+Gather, Toplanmak / Toplamak
+General, Genel
+Generation, Nesil
+Generous, Cömert
+Gentle, Nazik
+Global, Küresel
+Goal, Hedef
+Goods, Mallar / Eşyalar
+Gradual, Kademeli
+Graduate, Mezun olmak
+Grateful, Minnettar
+Guarantee, Garanti
+Guard, Korumak / Nöbetçi
+Guess, Tahmin etmek
+Guest, Misafir
+Guide, Rehber
+Guilt, Suçluluk
+Habit, Alışkanlık
+Handle, Başa çıkmak / Halletmek
+Hang, Asmak
+Happen, Olmak / Meydana gelmek
+Hardly, Neredeyse hiç
+Harm, Zarar
+Health, Sağlık
+Heart, Kalp
+Heat, Isı / Isıtmak
+Heavy, Ağır
+Height, Yükseklik / Boy
+Hesitate, Tereddüt etmek
+Hide, Saklamak
+Highlight, Vurgulamak
+Highly, Son derece
+Hire, Kiralamak / İşe almak
+Hold, Tutmak
+Hole, Delik
+Honest, Dürüst
+Honour, Onur
+Hope, Umut / Ummak
+Horrible, Korkunç
+Host, Ev sahibi
+Huge, Kocaman / Devasa
+Human, İnsan
+Humour, Mizah
+Hungry, Aç
+Hunt, Avlamak
+Hurry, Acele etmek
+Hurt, İncitmek / Acımak
+Identify, Tanımlamak / Tespit etmek
+Ignore, Görmezden gelmek
+Illegal, Yasadışı
+Illness, Hastalık
+Image, Görüntü / İmaj
+Imagine, Hayal etmek
+Immediate, Acil / Derhal
+Impact, Etki / Darbe
+Import, İthal etmek
+Importance, Önem
+Impress, Etkilemek
+Include, İçermek
+Income, Gelir
+Increase, Artmak / Artırmak
+Indeed, Aslında / Gerçekten
+Indicate, Belirtmek / Göstermek
+Individual, Birey / Bireysel
+Industry, Endüstri / Sanayi
+Influence, Etki / Etkilemek
+Inform, Bilgilendirmek
+Injure, Yaralamak
+Innocent, Masum
+Inquiry, Soruşturma / Sorgu
+Insert, Eklemek / Yerleştirmek
+Inside, İçinde
+Insist, Israr etmek
+Inspect, İncelemek / Denetlemek
+Instance, Örnek / Durum
+Instead, Yerine
+Institute, Enstitü / Kurum
+Instruction, Talimat
+Instrument, Enstrüman / Alet
+Insult, Hakaret etmek
+Insurance, Sigorta
+Intend, Niyet etmek
+Intention, Niyet
+Interest, İlgi / Faiz
+Internal, İç / Dahili
+Introduce, Tanıtmak
+Invent, İcat etmek
+Invest, Yatırım yapmak
+Investigate, Araştırmak
+Invite, Davet etmek
+Involve, İçermek / Dahil etmek
+Issue, Mesele / Konu
+Item, Eşya / Madde
+Jealous, Kıskanç
+Join, Katılmak
+Joint, Ortak / Eklem
+Joke, Şaka
+Journey, Yolculuk
+Abandon, Terk etmek
+Absolute, Mutlak
+Absorb, Emmek / Özümsemek
+Abstract, Soyut
+Accurate, Kesin / Doğru
+Acknowledge, Kabul etmek
+Acquire, Edinmek / Kazanmak
+Adequate, Yeterli
+Adjust, Ayarlamak / Uyum sağlamak
+Administration, Yönetim
+Alter, Değiştirmek
+Alternative, Alternatif
+Analyze, Analiz etmek
+Anticipate, Ummak / Beklemek
+Apparent, Bariz / Açık
+Appropriate, Uygun
+Approve, Onaylamak
+Arise, Ortaya çıkmak
+Aspect, Açı / Yön
+Assess, Değerlendirmek
+Assign, Atamak / Görevlendirmek
+Assist, Yardım etmek
+Assume, Varsaymak
+Attach, Eklemek / İliştirmek
+Attitude, Tavır / Tutum
+Author, Yazar
+Aware, Farkında
+Bias, Önyargı
+Briefly, Kısaca
+Capable, Yetenekli
+Capacity, Kapasite
+Category, Kategori
+Cease, Sona ermek / Durdurmak
+Civil, Sivil
+Clarify, Açıklığa kavuşturmak
+Collapse, Çökmek
+Commit, İşlemek (suç) / Adamak
+Commitment, Taahhüt / Bağlılık
+Complex, Karmaşık
+Component, Bileşen / Parça
+Concept, Kavram
+Conclude, Sonuçlandırmak
+Conduct, Yürütmek / Yönetmek
+Conflict, Çatışma
+Consent, Rıza / Onay
+Consequence, Sonuç
+Considerable, Dikkate değer
+Consistent, Tutarlı
+Constant, Sabit / Sürekli
+Construct, İnşa etmek
+Consult, Danışmak
+Context, Bağlam
+Contract, Sözleşme
+Contrast, Zıtlık
+Contribute, Katkıda bulunmak
+Convert, Dönüştürmek
+Core, Çekirdek / Temel
+Corporate, Kurumsal
+Correspond, Karşılık gelmek
+Credit, İtibar / Kredi
+Criteria, Kriter
+Crucial, Çok önemli
+Cultural, Kültürel
+Debate, Tartışma
+Decline, Düşüş / Reddetmek
+Demonstrate, Göstermek / Kanıtlamak
+Deny, İnkar etmek
+Depress, Depresyona sokmak
+Derive, Türetmek / Kaynaklanmak
+Designate, Belirlemek / Atamak
+Despite, Rağmen
+Detect, Tespit etmek
+Dimension, Boyut
+Display, Sergilemek / Göstermek
+Distinct, Farklı / Belirgin
+Distribute, Dağıtmak
+Diverse, Çeşitli
+Draft, Taslak
+Dynamic, Dinamik
+Edit, Düzenlemek
+Element, Unsur
+Eliminate, Ortadan kaldırmak
+Emerge, Ortaya çıkmak
+Emphasis, Vurgu
+Enable, Olanak tanımak
+Encounter, Karşılaşmak
+Enhance, Geliştirmek / Artırmak
+Ensure, Garantiye almak / Sağlamak
+Entire, Bütün / Tamamı
+Environment, Çevre
+Equation, Denklem
+Error, Hata
+Establish, Kurmak / Tesis etmek
+Evaluate, Değerlendirmek
+Evolution, Evrim
+Exceed, Aşmak
+Exclude, Hariç tutmak
+Exhibit, Sergilemek
+Expand, Genişletmek
+Expert, Uzman
