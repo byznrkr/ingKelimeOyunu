@@ -19,4 +19,7 @@ Bu proje, C# Windows Forms kullanılarak geliştirilmiş, kullanıcıların İng
 ## ⚙️ Nasıl Çalıştırılır?
 1. Bu depoyu sağ üstteki yeşil **Code** butonuna tıklayıp **Download ZIP** diyerek bilgisayarınıza indirin.
 2. İndirdiğiniz klasörü ZIP'ten çıkartın.
-3. İçerisindeki **`KelimeOyunu.slnx`** dosyasına çift tıklayarak projeyi Visual Studio'da aç
+3. İçerisindeki **`KelimeOyunu.slnx`** dosyasına çift tıklayarak projeyi Visual Studio'da açın.
+4. Üstteki menüden **Başlat (Start)** butonuna basarak veya klavyeden **F5** tuşu ile oyunu hemen test edebilirsiniz.
+
+*(Not: Oyunun verimli çalışabilmesi için kelimelerin bulunduğu `.txt` dosyasının ilgili dizinde olması gerekmektedir; derleyici bu dosyayı otomatik olarak kopyalayacak şekilde ayarlanmıştır).*
