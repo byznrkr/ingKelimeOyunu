@@ -1,0 +1,17 @@
+C:\Users\aydin\Desktop\KelimeOyunu\KelimeOyunu\obj\Debug\net10.0-windows\KelimeOyunu.csproj.GenerateResource.cache
+C:\Users\aydin\Desktop\KelimeOyunu\KelimeOyunu\obj\Debug\net10.0-windows\KelimeOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\KelimeOyunu\KelimeOyunu\obj\Debug\net10.0-windows\KelimeOyunu.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\KelimeOyunu\KelimeOyunu\obj\Debug\net10.0-windows\KelimeOyunu.AssemblyInfo.cs
+C:\Users\aydin\Desktop\KelimeOyunu\KelimeOyunu\obj\Debug\net10.0-windows\KelimeOyunu.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\KelimeOyunu\KelimeOyunu\bin\Debug\net10.0-windows\KelimeOyunu.exe
+C:\Users\aydin\Desktop\KelimeOyunu\KelimeOyunu\bin\Debug\net10.0-windows\KelimeOyunu.deps.json
+C:\Users\aydin\Desktop\KelimeOyunu\KelimeOyunu\bin\Debug\net10.0-windows\KelimeOyunu.runtimeconfig.json
+C:\Users\aydin\Desktop\KelimeOyunu\KelimeOyunu\bin\Debug\net10.0-windows\KelimeOyunu.dll
+C:\Users\aydin\Desktop\KelimeOyunu\KelimeOyunu\bin\Debug\net10.0-windows\KelimeOyunu.pdb
+C:\Users\aydin\Desktop\KelimeOyunu\KelimeOyunu\obj\Debug\net10.0-windows\KelimeOyunu.dll
+C:\Users\aydin\Desktop\KelimeOyunu\KelimeOyunu\obj\Debug\net10.0-windows\refint\KelimeOyunu.dll
+C:\Users\aydin\Desktop\KelimeOyunu\KelimeOyunu\obj\Debug\net10.0-windows\KelimeOyunu.pdb
+C:\Users\aydin\Desktop\KelimeOyunu\KelimeOyunu\obj\Debug\net10.0-windows\KelimeOyunu.genruntimeconfig.cache
+C:\Users\aydin\Desktop\KelimeOyunu\KelimeOyunu\obj\Debug\net10.0-windows\ref\KelimeOyunu.dll
+C:\Users\aydin\Desktop\KelimeOyunu\KelimeOyunu\bin\Debug\net10.0-windows\kelimeler.txt
+C:\Users\aydin\Desktop\KelimeOyunu\KelimeOyunu\obj\Debug\net10.0-windows\KelimeOyunu.Form1.resources
